@@ -1,6 +1,3 @@
-n = [1,4,6]
-x = ['koko', 'bad', 'don']
-z = [33, 44, 55]
 
 # for ind, value in enumerate(zip(n, x,z)):
 #     print(ind, value)
